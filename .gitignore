@@ -1,0 +1,36 @@
+# ---- Keil MDK build artifacts ----
+Objects/
+Listings/
+DebugConfig/
+RTE/
+*.o
+*.d
+*.crf
+*.dep
+*.lnp
+*.sct
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.iex
+*.htm
+*.scvd
+
+# ---- Per-user / per-machine Keil settings ----
+*.uvguix.*
+*.uvguix
+*.uvopt.bak
+*.uvprojx.bak
+*.dbgconf
+JLinkLog.txt
+JLinkSettings.ini
+
+# ---- Misc ----
+*.bak
+*.tmp
+Thumbs.db
+desktop.ini
+.DS_Store
